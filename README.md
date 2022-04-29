@@ -1,5 +1,5 @@
 # ntlk-synonym-api
-Python rest API to get word synonyms in english or spanish
+Python rest API to get word synonyms in  spanish
 
 # How to run
 Open a terminal on the directory containing the repository files and run
