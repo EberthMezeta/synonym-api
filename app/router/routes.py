@@ -27,6 +27,5 @@ async def english_synonym(word: str):
             for name in syn.lemma_names():
                 results.append(name)
         return results
-        pass
     except:
         return []
